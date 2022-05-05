@@ -52,4 +52,4 @@ app.get('/unsubscribe/:email', (req, res) => {
     res.send(`Ваш email: ${req.params.email} удален из списка рассылки!`)
 })
 
-app.listen(3001, () => console.log(chalk.bold.bgBlue(`server started`)))
+app.listen(3001, () => console.log(chalk.bold.bgBlue(`server started 3001`)))

@@ -1,7 +1,7 @@
 {
   "name": "nodemailer",
   "version": "1.0.0",
-  "description": "",
+  "description": "node js form submit",
   "main": "index.js",
   "scripts": {
     "start": "node index js",
